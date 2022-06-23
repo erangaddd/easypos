@@ -1,6 +1,4 @@
-###################
-Easy Pos
-###################
+# Easy Pos
 
 Easy Pos in an user friendly sales management system written in PHP on Codeigniter framework.
 
